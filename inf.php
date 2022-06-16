@@ -21,9 +21,8 @@
             <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
                 <li><a href="index.php" class="nav-link px-2 text-white">Персонажи</a></li>
                 <li><a href="inf.php" class="nav-link px-2 text-secondary">Информация</a></li>
-                <li><a href="#" class="nav-link px-2 text-white">Список серий</a></li>
                 <li><a href="#" class="nav-link px-2 text-white">Карты</a></li>
-                <li><a href="#" class="nav-link px-2 text-white">Франшиза</a></li>
+
             </ul>
 
         </div>

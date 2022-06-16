@@ -5,7 +5,7 @@
     width: 300px;
     height: 540px;
     background-color: #333;
-    border-radius: 21px;
+    border-radius: 0px;
     transform: rotate(30deg);
 }
 .product-device-2 {
@@ -15,7 +15,22 @@
     width: 300px;
     height: 300px;
     background-color: #333;
-    border-radius: 21px;
+    border-radius: 0px;
     transform: rotate(30deg);
 }
 
+.dark2 {
+    position: static;
+    width: 650px;
+    height: 766px;
+    left: 200px;
+    top: 400px;
+}
+
+.dark {
+    position: static;
+    width: 557px;
+    height: 181px;
+    left: 0px;
+    top: 110px;
+}
