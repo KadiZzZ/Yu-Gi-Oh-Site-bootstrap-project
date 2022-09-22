@@ -22,6 +22,7 @@
                 <li><a href="index.php" class="nav-link px-2 text-white">Персонажи</a></li>
                 <li><a href="inf.php" class="nav-link px-2 text-secondary">Информация</a></li>
                 <li><a href="#" class="nav-link px-2 text-white">Карты</a></li>
+                <li><a href="/reg log in/signup.php" class="nav-link px-2 text-white">Регистрация</a></li>
 
             </ul>
 
